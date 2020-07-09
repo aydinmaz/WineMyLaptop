@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item key="ProjectSelectionDialog.show_all" value="true"/>
+	<section name="AJDTCompilerOptionsBlock">
+		<item key="expanded2" value="false"/>
+		<item key="expanded1" value="false"/>
+		<item key="expanded4" value="false"/>
+		<item key="expanded3" value="false"/>
+		<item key="expanded6" value="false"/>
+		<item key="expanded5" value="false"/>
+		<item key="expanded0" value="true"/>
+	</section>
 	<section name="BuildPathsPropertyPage">
-		<item value="3" key="pageIndex"/>
+		<item key="pageIndex" value="3"/>
 	</section>
 	<section name="quick_assist_proposal_size">
 	</section>

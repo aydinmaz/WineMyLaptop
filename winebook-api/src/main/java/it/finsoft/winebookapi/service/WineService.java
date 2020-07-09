@@ -24,7 +24,7 @@ public class WineService {
 	/*wines.add(w1);
 	wines.add(w2);
 	wines.add(w3);*///dar in ravesh ,ba har bar request az angular , hey be list ghabli ezafe mishan va list toolani mishe
-	//wines = Arrays.asList(w1,w2,w3);//in ravesh khoobe ba har baar request list az avval sakhte mishe va list hey ezaafe nemishe.
+	wines = Arrays.asList(w1,w2,w3);//in ravesh khoobe ba har baar request list az avval sakhte mishe va list hey ezaafe nemishe.
 	
 		return wines;
 	}
